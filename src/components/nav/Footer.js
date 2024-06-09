@@ -41,7 +41,7 @@ const Footer = () => {
             <h6>Get in Touch</h6>
             <ul className="footer-links" style={{fontSize:"1rem"}}>
               <li className="d-flex align-items-center">
-                <i className="ri-phone-line mr-2"></i> <a href="tel:+91-7017554779" style={{cursor:"pointer"}}>+91-7017554779</a>
+                <i className="ri-phone-line mr-2"></i> <a href="tel:+91-7899594779" style={{cursor:"pointer"}}>+91-7899594779</a>
               </li>
               <li className="d-flex align-items-center">
                 <i className="ri-mail-line mr-2"></i> <a href="mailto:info@preeminencelab.in" style={{cursor:"pointer"}}>info@preeminencelab.in</a>

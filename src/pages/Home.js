@@ -138,10 +138,10 @@ const Home = () => {
           <div className="col-md-6">
             <br />
             <br />
-            <h2 className="c-us-title">2 years of industry experience</h2>
+            <h2 className="c-us-title">10 years of industry experience</h2>
             <p className="c-us-body">
               We are giving our clients best service in web and app development
-              to grow their business since 2 years.
+              to grow their business since 10 years.
             </p>
           </div>
           <div className="col-md-6">
